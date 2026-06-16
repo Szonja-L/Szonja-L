@@ -9,13 +9,9 @@ I'm a MSc bioinformatics graduate showcasing my hands-on portfolio of computatio
 | # | Project | What it proves |
 |---|---------|---------------|
 | 1 | [Differential Gene Expression Analysis](https://github.com/Szonja-L/Differential-Gene-Expression-Analysis) | Transcriptomics · Identifying upregulated genes in disease states · Statistical testing with FDR correction |
-
 | 2 | [Protein Structure Visualisation](https://github.com/Szonja-L/Protein-Structure-Visualisation) | Structural biology · Spatial coordinate data · PyMOL · Active site mapping |
-
 | 3 | [SNP & Variant Identification](https://github.com/Szonja-L/SNP-and-Variant-Identification) | NGS workflows · Quality control · Genome alignment · Variant calling |
-
 | 4 | [Basic Molecular Docking](https://github.com/Szonja-L/Molecular-Docking) | Computer-Aided Drug Discovery · AutoDock Vina · Binding affinity metrics |
-
 | 5 | [Automated Sequence Retrieval](https://github.com/Szonja-L/Automated-Sequence-Retrieval) | Biopython · NCBI API · Automated data extraction pipelines |
 
 ---
